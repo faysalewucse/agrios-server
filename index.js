@@ -84,5 +84,5 @@ async function run() {
 run().catch(console.dir);
 
 app.listen(port, () => {
-  console.log(`Ninja School Server listening on port ${port}`);
+  console.log(`Agrios Server listening on port ${port}`);
 });
